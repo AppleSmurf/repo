@@ -1,0 +1,10 @@
+Package: com.applesmurf.AdGuardPremium
+Name: AdGuard Premium
+Author: Apple Smurf
+Description: AdGuard Premium! Everything in the App is unlock!  Version 3.1.4
+Depends: mobilesubstrate
+Maintainer: Apple Smurf - www.applesmurf.com
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 3.1.4
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.AdGuardPremium
