@@ -1,0 +1,10 @@
+Package: com.AppleSmurf.YouTubePlus
+Name: YouTube Plus
+Author: Apple Smurf
+Description: No ads from interrupting your videos, Play in the background  
+Depends: mobilesubstrate
+Maintainer: Apple Smurf - tuempty@AppleSmurf.com
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 15.13
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.YouTubePlus

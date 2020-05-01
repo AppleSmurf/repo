@@ -1,7 +1,7 @@
 <package>
-	<id>com.applesmurf.AdGuardPremium</id>
+	<id>com.supermamon.IconMaker</id>
 	<name>Old Package</name>
-	<version>3.1.4</version>
+	<version>0.1.6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>

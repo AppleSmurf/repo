@@ -1,0 +1,10 @@
+Package: com.applesmurf.AlohaPatch
+Name: Aloha Patch
+Author: Apple Smurf
+Description: pro subscription 
+Depends: mobilesubstrate
+Maintainer: Apple Smurf - www.applesmurf.com
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.2.1
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.AlohaPatch

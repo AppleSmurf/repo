@@ -1,0 +1,122 @@
+Package: com.AppleSmurf.YouTubePlus
+Version: 15.13
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf - AppleSmurf.com
+Depends: mobilesubstrate
+Filename: ./debs/com.AppleSmurf.YouTubePlus_15.13_iphoneos-arm.deb
+Size: 33768
+MD5sum: f65736b8ad09f0342afeed26854dd3ba
+SHA1: 818151fdde29359046dcf7f5426066c248064be2
+SHA256: fcb240a7fcf04f18f9fb10837e7587f2c31827546ec220bafdc50c6b30a56c73
+Section: Tweaks
+Description: No ads from interrupting your videos, Play in the background
+Author: Apple Smurf
+Name: YouTube Plus
+
+Package: com.applesmurf.AdGuardPremium
+Version: 3.1.4
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf - www.applesmurf.com
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.AdGuardPremium_3.1.4_iphoneos-arm.deb
+Size: 7316
+MD5sum: eb7f2b1b7134f3c4c43659f5fd970946
+SHA1: 26512f7b912583739bcd1fe7ac187ce15881bf18
+SHA256: 259b81b424e2a47658ec46f8015a44eeada80823f6dba1529a36ba23a43e2ab0
+Section: Tweaks
+Description: AdGuard Premium! Everything in the App is unlock!  Version 3.1.4
+Author: Apple Smurf
+Name: AdGuard Premium
+
+Package: com.applesmurf.AlohaPatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf - www.applesmurf.com
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.AlohaPatch_0.2.1_iphoneos-arm.deb
+Size: 7696
+MD5sum: 31104cc20a967cb859e53fd7f97ec124
+SHA1: f51e7271280c7a975b63aa408ee65cd8264d1450
+SHA256: 098590aee87189b1c48952c1a14a468dcef6bdb0972c55a5998fee6ad848bcc1
+Section: Tweaks
+Description: pro subscription
+Author: Apple Smurf
+Name: Aloha Patch
+
+Package: com.applesmurf.IconMaker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf - www.applesmurf.com
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.IconMaker_0.0.1_iphoneos-arm.deb
+Size: 5710
+MD5sum: 49b0b89c1ebc0d1c43d54fee03775794
+SHA1: baa007d81caf263dc76bfa0cc855acd6aa3b0396
+SHA256: 8c234bf5852a55a9b95d71f4ea4a113aa2c61a0c3f521d122d70a464b6a9548f
+Section: Tweaks
+Description: unlock all features
+Author: Apple Smurf
+Name: IconMaker+
+
+Package: com.applesmurf.TextCodeEditor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf - www.appleamurf.com
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.TextCodeEditor_1.0.5_iphoneos-arm.deb
+Size: 5768
+MD5sum: b4276d3cfb9638ea76aa6c61d8ee177a
+SHA1: dd8f979427830748e883933e538a6779b665f17c
+SHA256: 241b150f3ff1e4ab002e32f4484f4237ca30cd09de124f0693139ba2e042ba29
+Section: Tweaks
+Description: Pro Subscription! All features unlocked
+Author: Apple Smurf
+Name: TextCode Editor +
+
+Package: com.applesmurf.asmurfiap
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfiap_1.2.1_iphoneos-arm.deb
+Size: 4582
+MD5sum: 7e397d115c4c0cf29057d7bf18fdfff0
+SHA1: bcf8216850310d0adb846d6d3cf520ccd6d9e4fa
+SHA256: 38ac3be6a6341f2297b999b7c51ffa5b4d243887569afe7fb0adb3442aa9093d
+Section: Tweaks
+Description: Free InApp Purchase! Tested on 13.3.1 An awesome MobileSubstrate tweak!
+Author: Apple Smurf
+Name: asmurfiap
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+

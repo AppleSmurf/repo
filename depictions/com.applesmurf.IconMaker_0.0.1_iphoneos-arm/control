@@ -1,0 +1,10 @@
+Package: com.applesmurf.IconMaker
+Name: IconMaker+
+Author: Apple Smurf
+Description: unlock all features 
+Depends: mobilesubstrate
+Maintainer: Apple Smurf - tuempty@applesmurf.com
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.1.6
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.IconMaker

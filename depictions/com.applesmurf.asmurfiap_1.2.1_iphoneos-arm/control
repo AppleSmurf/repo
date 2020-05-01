@@ -1,0 +1,10 @@
+Package: io.github.applesmurf.asmurfiap
+Name: asmurfiap
+Depends: mobilesubstrate
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Free InApp Purchase! Tested on 13.3.1 An awesome MobileSubstrate tweak!
+Maintainer: Apple Smurf - tuempty@applesmurf.com
+Author: Apple Smurf
+Section: Tweaks
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfiap

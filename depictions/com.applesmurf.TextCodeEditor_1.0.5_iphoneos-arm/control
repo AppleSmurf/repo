@@ -1,0 +1,10 @@
+Package: com.applesmurf.TextCodeEditor
+Name: TextCode Editor +
+Author: Apple Smurf
+Description: Pro Subscription! All features unlocked
+Depends: mobilesubstrate
+Maintainer: Apple Smurf - tuempty@appleamurf.com
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.5
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.TextCodeEditor
