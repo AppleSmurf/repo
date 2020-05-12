@@ -25,15 +25,6 @@
 		</screenshot>		
 
 	</screenshots>
-<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		</changelog>
-	<links>
-		<link>
-			<name>/r/AppleSmurf</name>
-			<url>https://www.applesmurf.com</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
-		</link>
-	</links>
+
+
 </package>
