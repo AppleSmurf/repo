@@ -78,12 +78,12 @@ Version: 14.51.4
 Architecture: iphoneos-arm
 Maintainer: Apple Smurf <tuempty@applemsmurf.com>
 Installed-Size: 72
-Depends: mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Filename: ./debs/com.applesmurf.asmurfyoutube_14.51.4_iphoneos-arm.deb
-Size: 6388
-MD5sum: 86d0c6706e4b6a074ec5705b849b84a9
-SHA1: 3e55a0d45d1c86de39836878fdc70c0014979312
-SHA256: 1abceaf5f62ccabb8833ee51fe974d49d6a8129359ad1fa1058b6a0a990568e1
+Size: 6410
+MD5sum: 5e1fc24500ef772abe8506fc13097281
+SHA1: 0cce6fa43777d95abbca5c3de128e1b3be572570
+SHA256: 0476f5b18b96bee087d9df015d5d0f9fa06d6b8c3a79282ee622ababf74f4e89
 Section: Tweaks
 Homepage: https://applesmurf.com
 Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag &Drop Enabled

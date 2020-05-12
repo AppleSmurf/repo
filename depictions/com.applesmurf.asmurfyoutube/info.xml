@@ -1,8 +1,5 @@
 <package>
-	<id>com.applesmurf.asmurfyoutube</id>
-	<name>Youtube++</name>
-	<Author> Apple Smurf <tuempty@applemsmurf.com></Author>
-	<Maintainer> Apple Smurf <tuempty@applemsmurf.com></Maintainer>
+	<id>com.applesmurf.fullpackage</id>
 	<version>14.51.4</version>
 	<compatibility>
 		<firmware>
