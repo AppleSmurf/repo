@@ -1,10 +1,37 @@
-Package: com.applesmurf.asmurfyoutube
-Name: Youtube Plus
-Depends: mobilesubstrate
-Version: 14.51.4
-Architecture: iphoneos-arm
-Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag &Drop Enabled
-Maintainer: Apple Smurf <tuempty@applemsmurf.com>
-Author: Apple Smurf <tuempty@applemsmurf.com>
-Section: Tweaks
-Homepage: https://applesmurf.com
+<package>
+	<id>com.applesmurf.asmurfyoutube</id>
+	<name>Youtube++</name>
+	<Author> Apple Smurf <tuempty@applemsmurf.com></Author>
+	<Maintainer> Apple Smurf <tuempty@applemsmurf.com></Maintainer>
+	<version>14.51.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>No ads from interrupting your videos</description>
+		<description>Play in the background</description>
+		<description>PictureInPicture Enabled</description>
+		<description>Drag & Drop Enabled </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>youtube.png</image>
+		</screenshot>		
+
+	</screenshots>
+
+	<links>
+		<link>
+			<name>/r/AppleSmurf</name>
+			<url>https://www.applesmurf.com</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</links>
+</package>
