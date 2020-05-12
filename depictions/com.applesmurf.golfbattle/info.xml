@@ -1,0 +1,30 @@
+
+
+<package>
+	<id>com.applesmurf.fullpackage</id>
+	<name>full package</name>
+	<version>1.12.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>Shot count to reach Hole</description>
+		<description>Automatic Hole in One</description>
+		<description>Turn off Bots</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>gb.png</image>
+		</screenshot>		
+
+	</screenshots>
+
+
+</package>

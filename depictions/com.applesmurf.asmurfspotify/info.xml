@@ -1,0 +1,30 @@
+
+
+<package>
+	<id>com.applesmurf.fullpackage</id>
+	<name>full package</name>
+	<version>8.5.57</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>Allow to seeking</description>
+		<description>Unlimited Skip</description>
+		<description>Disable Ads</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>spotify.png</image>
+		</screenshot>		
+
+	</screenshots>
+
+
+</package>
