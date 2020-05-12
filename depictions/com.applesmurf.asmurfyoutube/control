@@ -1,0 +1,11 @@
+Package: com.applesmurf.asmurfyoutube
+Name: asmurfYOUTUBE
+Depends: firmware (>7.0), mobilesubstrate
+Version: 14.51.4
+Architecture: iphoneos-arm
+Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag & Drop Enabled
+Maintainer: AppleSmurf <tuempty@applemsmurf.com>
+Author: AppleSmurf <tuempty@applemsmurf.com>
+Section: Tweaks
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfyoutube
+
