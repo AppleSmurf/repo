@@ -1,5 +1,6 @@
 <package>
 	<id>com.applesmurf.asmurfyoutube</id>
+	<name>asmurfYOUTUBE</name>
 	<version>14.51.4</version>
 	<compatibility>
 		<firmware>
@@ -23,7 +24,10 @@
 		</screenshot>		
 
 	</screenshots>
-
+<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		</changelog>
 	<links>
 		<link>
 			<name>/r/AppleSmurf</name>
