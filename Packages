@@ -74,20 +74,20 @@ Author: Apple Smurf
 Name: asmurfiap
 
 Package: com.applesmurf.asmurfyoutube
-Version: 1.14.0
+Version: 14.51.4
 Architecture: iphoneos-arm
 Maintainer: Apple Smurf <tuempty@applemsmurf.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.applesmurf.asmurfyoutube_1.14.0_iphoneos-arm.deb
+Filename: ./debs/com.applesmurf.asmurfyoutube_14.51.4_iphoneos-arm.deb
 Size: 6388
-MD5sum: b4ad7ef897e3039971d1a3285f6e8389
-SHA1: 43fe3ecd93ad9a2e821f94be4e589cb87c9a6848
-SHA256: 8e9a8a20cc7faadc05669e7cb6689d83bedc206de8463b8a1ec19c213d9c3cf0
+MD5sum: 86d0c6706e4b6a074ec5705b849b84a9
+SHA1: 3e55a0d45d1c86de39836878fdc70c0014979312
+SHA256: 1abceaf5f62ccabb8833ee51fe974d49d6a8129359ad1fa1058b6a0a990568e1
 Section: Tweaks
 Homepage: https://applesmurf.com
 Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag &Drop Enabled
 Author: Apple Smurf <tuempty@applemsmurf.com>
 Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfyoutube
-Name: Youtube Plus
+Name: asmurfYOUTUBE++
 
