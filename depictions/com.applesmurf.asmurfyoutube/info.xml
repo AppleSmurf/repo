@@ -1,3 +1,5 @@
+
+
 <package>
 	<id>com.applesmurf.fullpackage</id>
 	<name>full package</name>
@@ -15,7 +17,6 @@
 		<description>No ads from interrupting your videos</description>
 		<description>Play in the background</description>
 		<description>PictureInPicture Enabled</description>
-		<description>Drag & Drop Enabled</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
