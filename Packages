@@ -1,18 +1,3 @@
-Package: com.AppleSmurf.YouTubePlus
-Version: 15.13
-Architecture: iphoneos-arm
-Maintainer: Apple Smurf - AppleSmurf.com
-Depends: mobilesubstrate
-Filename: ./debs/com.AppleSmurf.YouTubePlus_15.13_iphoneos-arm.deb
-Size: 33768
-MD5sum: f65736b8ad09f0342afeed26854dd3ba
-SHA1: 818151fdde29359046dcf7f5426066c248064be2
-SHA256: fcb240a7fcf04f18f9fb10837e7587f2c31827546ec220bafdc50c6b30a56c73
-Section: Tweaks
-Description: No ads from interrupting your videos, Play in the background
-Author: Apple Smurf
-Name: YouTube Plus
-
 Package: com.applesmurf.AdGuardPremium
 Version: 3.1.4
 Architecture: iphoneos-arm

@@ -1,0 +1,10 @@
+Package: com.applesmurf.asmurfyoutube
+Name: Youtube Plus
+Depends: mobilesubstrate
+Version: 14.51.4
+Architecture: iphoneos-arm
+Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag &Drop Enabled
+Maintainer: Apple Smurf <tuempty@applemsmurf.com>
+Author: Apple Smurf <tuempty@applemsmurf.com>
+Section: Tweaks
+Homepage: https://applesmurf.com
