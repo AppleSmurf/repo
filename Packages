@@ -88,3 +88,20 @@ Description: Free InApp Purchase! Tested on 13.3.1 An awesome MobileSubstrate tw
 Author: Apple Smurf
 Name: asmurfiap
 
+Package: com.applesmurf.asmurfyoutube
+Version: 1.14.0
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf <tuempty@applemsmurf.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfyoutube_1.14.0_iphoneos-arm.deb
+Size: 6350
+MD5sum: 3ccf8151232156e3994b3045a7081e31
+SHA1: b23894d23bb7fccbcf99eea772ac9353d5c052de
+SHA256: aa36ce70b0e2e6a16fa032eaac1d978b96c3ca1ba576f9738eafc88e604a92c2
+Section: Tweaks
+Homepage: https://applesmurf.com
+Description: No ads from interrupting your videos, Play in the background, PictureInPicture Enabled, Drag &Drop Enabled
+Author: Apple Smurf <tuempty@applemsmurf.com>
+Name: Youtube Plus
+
