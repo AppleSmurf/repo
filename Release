@@ -1,5 +1,5 @@
-Origin: repo
-Label: AppleSmurf Repo
+Origin: AppleSmurf
+Label: Repo
 Suite: stable
 Version: 1.0
 Codename: ios
