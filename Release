@@ -1,8 +1,9 @@
-Origin: repo
-Label: repo
+Origin: AppleSmurf's Repo
+Label: AppleSmurf's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: AppleSmurf's Repo
 Architectures: iphoneos-arm
 Components: main
 Description: AppleSmurf - Everything  Smurfing
+Icon: file://CydiaIcon.png
