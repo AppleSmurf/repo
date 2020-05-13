@@ -58,6 +58,23 @@ Description: Pro Subscription! All features unlocked
 Author: Apple Smurf
 Name: TextCode Editor +
 
+Package: com.applesmurf.asmurffacetune2
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf <tuempty@applemsmurf.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurffacetune2_2.1.2_iphoneos-arm.deb
+Size: 4100
+MD5sum: cdbbe02656a848d18c145477f9d1aff0
+SHA1: 6a22d7316f8d74e323b3f7795f090f6735aa965b
+SHA256: 77bed92ce4d521f3d555393121cce94b56418ef3c38743cb27e3f4225c0b35aa
+Section: Multimedia
+Description: Free InApp Purchased, Unlimited Access, All Library of elements,
+Author: Apple Smurf <tuempty@applemsmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurffacetune2
+Name: Facetune®2 (VIP)!
+
 Package: com.applesmurf.asmurfiap
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -72,6 +89,25 @@ Section: Tweaks
 Description: Free InApp Purchase! Tested on 13.3.1 An awesome MobileSubstrate tweak!
 Author: Apple Smurf
 Name: asmurfiap
+
+Package: com.applesmurf.asmurfspotify
+Version: 8.5.57
+Architecture: iphoneos-arm
+Maintainer: AppleSmurf
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfspotify_8.5.57_iphoneos-arm.deb
+Size: 8374
+MD5sum: b6f6a5dfca68e4f35687d41ad28e73d1
+SHA1: 3088690367a3a26d173dffdde95dd50a491dad34
+SHA256: 98cb434a0fcecadaa0095c03c7cd5428b73788e0c306c815e7bbec8d6cbdc30a
+Section: Tweaks
+Homepage: https://applesmurf.com
+Description: asmurfspotify No premium needed!
+Author: AppleSmurf
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfspotify
+Icon: file:///Library/PreferenceBundles/asmurfspotify.bundle/asmurfspotify.png
+Name: asmurfspotify
 
 Package: com.applesmurf.asmurfyoutube
 Version: 14.51.4
@@ -89,4 +125,39 @@ Description: No ads from interrupting your videos, Play in the background, Pictu
 Author: AppleSmurf <tuempty@applemsmurf.com>
 Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfyoutube
 Name: asmurfYOUTUBE
+
+Package: com.applesmurf.golfbattle
+Version: 1.14.0
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf
+Installed-Size: 276
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.golfbattle_1.14.0_iphoneos-arm.deb
+Size: 66546
+MD5sum: a5576afc57062f546726a07f11fb837c
+SHA1: efc2dfdbbf7147bf7678eacbef06763685ff3a94
+SHA256: cc445357a90d54bb0cf9ff1a296df2ae5de37173f796457d45f48713a17677be
+Section: Tweaks
+Homepage: https://applesmurf.com
+Description: Golf Battle Cheat Mod Menu by Apple Smurf
+Author: Apple Smurf
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.golfbattle
+Name: Golf Battle Cheat Mod Menu
+
+Package: com.applesmurf.textnow
+Version: 20.14.1
+Architecture: iphoneos-arm
+Maintainer: Apple Smurf <tuempty@applemsmurf.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.textnow_20.14.1_iphoneos-arm.deb
+Size: 2774
+MD5sum: 0a686d7234f7b365e3086f12bf7a78fd
+SHA1: 6c79c10d075d474fb55d6266b3ae26c691d1caf2
+SHA256: a26127ec859498997aa5d87673ca001f9b793f6cc56fe1fb26d89d7090b1ddc0
+Section: Productivity
+Description: Remove ads, lock-in your phone number, get call forwading and more!
+Author: Apple Smurf <tuempty@applemsmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.textnow
+Name: TextNOW® (Premium)!
 
