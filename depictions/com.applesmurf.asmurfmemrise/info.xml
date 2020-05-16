@@ -1,0 +1,28 @@
+
+
+<package>
+	<id>com.applesmurf.fullpackage</id>
+	<name>full package</name>
+	<version>3.1.36</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>LifeTime Premium Subscription!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot</description>
+			<image>memrise.png</image>
+		</screenshot>		
+
+	</screenshots>
+
+
+</package>

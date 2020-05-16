@@ -94,6 +94,25 @@ Author: AppleSmurf <tuempty@applesmurf.com>
 Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfautorap
 Name: AutoRap (VIP)!
 
+Package: com.applesmurf.asmurfbear
+Version: 1.7.14
+Architecture: iphoneos-arm
+Maintainer: AppleSmurf <tuempty@applesmurf.com>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfbear_1.7.14_iphoneos-arm.deb
+Size: 40366
+MD5sum: b3e7f38ed4f1f50ca035376b23a61334
+SHA1: f54622df0776808c8e4bdd90d0eeb57741749982
+SHA256: cabb414f3e70dab385d1a6c3ed8a04e70403e8fad3e652c68c767d0dada085ab
+Section: Tweaks
+Homepage: https://applesmurf.com
+Description: Bear LifeTime Pro Subscription
+Author: AppleSmurf <tuempty@applesmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfbear
+Icon: file:///Library/PreferenceBundles/asmurfbear.bundle/asmurfbear.png
+Name: Bearnote++
+
 Package: com.applesmurf.asmurffacetune2
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -125,6 +144,63 @@ Section: Tweaks
 Description: Free InApp Purchase! Tested on 13.3.1 An awesome MobileSubstrate tweak!
 Author: Apple Smurf
 Name: asmurfiap
+
+Package: com.applesmurf.asmurfinfuse6
+Version: 6.4.0
+Architecture: iphoneos-arm
+Maintainer: AppleSmurf <tuempty@applesmurf.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfinfuse6_6.4.0_iphoneos-arm.deb
+Size: 3196
+MD5sum: cb26107205387926227f8dff1853f1a9
+SHA1: 6086201d7e6a04daa111d36e25adda8de83e6fb8
+SHA256: 801408df007e342ca628f2befe9491acef448a13a7156d7b6b7ecf09b6b675d6
+Section: Entertainment
+Homepage: https://applesmurf.com
+Description: LifeTime Pro Subscription
+Author: AppleSmurf <tuempty@applesmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfinfuse6
+Icon: file:///Library/PreferenceBundles/asmurfinfuse6.bundle/asmurfinfuse6.png
+Name: InFuse6++
+
+Package: com.applesmurf.asmurfmemrise
+Version: 3.1.36
+Architecture: iphoneos-arm
+Maintainer: AppleSmurf <tuempty@applesmurf.com>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfmemrise_3.1.36_iphoneos-arm.deb
+Size: 40482
+MD5sum: 8f173580037bee60d811f9ccc490ec4d
+SHA1: 9c346876712138ecaf3898613c45f88eb5a886a4
+SHA256: e5a90974cec69cf857f9383c667f0c70c4fcaa3c8f6f817115aa1c2a4297b715
+Section: Tweaks
+Homepage: https://applesmurf.com
+Description: LifeTime Premium Subscription!
+Author: AppleSmurf <tuempty@applesmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfmemrise
+Icon: file:///Library/PreferenceBundles/asmurfmemrise.bundle/asmurfmemrise.png
+Name: Memrise++ (PREMIUM)
+
+Package: com.applesmurf.asmurfmusixmatch
+Version: 7.7.0
+Architecture: iphoneos-arm
+Maintainer: AppleSmurf <tuempty@applesmurf.com>
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.applesmurf.asmurfmusixmatch_7.7.0_iphoneos-arm.deb
+Size: 40556
+MD5sum: a0a9a7e820acba34a21c815d9921b791
+SHA1: 5d94eb80105ad0db39e7743b9e299e0fff9b043b
+SHA256: f3d6ba031bfbc0733d29414447b8ccb160b9de6372ad5452381f693efae2768b
+Section: Entertainment
+Homepage: https://applesmurf.com
+Description: LifeTime Premium Subscription Enjoy your music with lyrics
+Author: AppleSmurf <tuempty@applesmurf.com>
+Depiction: https://applesmurf.github.io/repo/depictions/?p=com.applesmurf.asmurfmusixmatch
+Icon: file:///Library/PreferenceBundles/asmurfMusixmatch++.bundle/asmurfmusixmatch.png
+Name: Musixmatch++
 
 Package: com.applesmurf.asmurfspotify
 Version: 8.5.57
